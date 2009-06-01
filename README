@@ -1,0 +1,7 @@
+Cushion is a very simple persistence layer on top of CouchDB.
+
+At this time (6/1/09) it's more of spike than anything else. However, it's better to push stuff out than hold it back...
+
+Please feel free to use - but be careful!
+
+No tests at all...
